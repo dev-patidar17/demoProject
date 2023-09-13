@@ -15,7 +15,7 @@ public class TreeImplementation {
 		treeMap.put("Dev", 10);
 		treeMap.put("Ashok", 1);
 		treeMap.put("Bhau", 3);
-		treeMap.put("Bhauu", 3);
+		treeMap.put("Bhauu", 4);
 		System.out.println(treeMap);
 		
 		
